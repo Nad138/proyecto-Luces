@@ -1,0 +1,8 @@
+.header{
+  color: blue;
+  width: 30px;
+  height: auto;
+}
+.body{
+  background-image: url("assets/image/ventana.jpg");
+};
