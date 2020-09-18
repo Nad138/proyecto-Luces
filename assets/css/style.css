@@ -4,5 +4,5 @@
   height: auto;
 }
 .body{
-  background-image: url("assets/image/ventana.jpg");
-};
+  background: url("../img/ventana.jpg");
+}
