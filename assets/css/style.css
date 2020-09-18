@@ -4,5 +4,8 @@
   height: auto;
 }
 .body{
-  background: url("../img/ventana.jpg");
+  background-image: url("../assets/img/ventana.jpg");
+  background-size: cover;
+  background-position: center;
+  position: absolute;
 }
