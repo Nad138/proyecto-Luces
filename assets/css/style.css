@@ -1,11 +1,25 @@
+*@font-face {
+  font-family: "Damion" , cursive;
+}
 .header{
   color: blue;
   width: 30px;
   height: auto;
 }
-.body{
-  background-image: url("../assets/img/ventana.jpg");
+body{
+  background-image:  url("../img/ventana.jpg");
   background-size: cover;
   background-position: center;
   position: absolute;
+}
+.a{
+  height: 10px;
+  width: 5px;
+  border-radius: 2px;
+}
+.letras{
+  color: verde;
+  position: center;
+  height: 100px;
+  width: auto;
 }
